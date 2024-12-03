@@ -72,6 +72,10 @@ print("Setelah menghapus data Ali:")
 hapus("Ali")
 tampilkan()
 ```
+daftar_nilai_mahasiswa.py
+
+Hasil Run.png
+
 Pertama, kita menambahkan beberapa data mahasiswa menggunakan fungsi tambah.
 
 Kemudian, kita menampilkan semua data mahasiswa yang telah ditambahkan.
@@ -79,5 +83,7 @@ Kemudian, kita menampilkan semua data mahasiswa yang telah ditambahkan.
 Setelah itu, kita mengubah nilai mahasiswa bernama Budi dan menampilkannya kembali untuk melihat perubahan.
 
 Terakhir, kita menghapus data mahasiswa bernama Ali dan menampilkan data mahasiswa yang tersisa.
+
+Flowchart.png
 
 Program ini memperlihatkan bagaimana kita bisa menambah, menampilkan, mengubah, dan menghapus data mahasiswa menggunakan fungsi-fungsi yang telah dibuat.
